@@ -39,6 +39,7 @@ Aqui estão algumas imagens que mostram o jogo em funcionamento:
 *Linguagem*: Python (Pygame)
 
 ### Dependências:
+Para rodar o jogo é necessário ter o python instalado em sua maquina e as seguintes bibliotecas:
 - Pygame: Biblioteca gráfica para a construção do jogo.
 
 Para instalar as dependências, execute o seguinte comando:
@@ -49,11 +50,16 @@ pip install pygame
 ## Uso
 Basta rodar o arquivo main.py para iniciar o jogo. Ao rodar o código, você verá o mapa da cidade e poderá selecionar os locais de início e fim para o algoritmo de Dijkstra calcular o caminho mais curto.
 
+Na pasta raiz do projeto para rodar apenas use
+```bash
+py main.py
+```
+
 ## Apresentações
 
 As apresentações de cada entrega estão presentes nos hiperlinks a seguir:
 
-| [1º Entrega](-) | Dijkstra Game |
+| [1º Entrega](https://youtu.be/qyiYN-fiM3w?si=oefVVOtYeHa6r2TN) | Dijkstra Game |
 
 ---
 
